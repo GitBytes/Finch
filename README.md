@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained.
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+> It should not be used in production systems.
+
 # ToxMix: Chemical Cytotoxicity Prediction Project
 
 This repository contains code and resources for predicting the cytotoxicity of both individual chemical compounds and their mixtures using various machine learning approaches. The project leverages different molecular representation techniques and machine learning models to achieve accurate toxicity predictions.
